@@ -9,6 +9,8 @@
 
 [290.  Word Pattern](https://leetcode.com/problems/word-pattern)
 
+[2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/)
+
 #### medium
 [36.  Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
 
