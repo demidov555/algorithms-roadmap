@@ -17,6 +17,10 @@
  
 [257.  Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
 
+[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+
+[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
+
 #### medium
 [102.  Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 
